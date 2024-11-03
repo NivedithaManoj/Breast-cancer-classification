@@ -19,7 +19,7 @@ The data collected at baseline include breast ultrasound images among women in a
 
 
 ## Evaluation and Visualisation
-The DenseNet121 model achieved an accuracy of 84% on the test dataset, demonstrating its effectiveness in classifying breast ultrasound images as either malignant or benign. Its architecture, which promotes feature reuse, enhances its performance in this task.
+The Mobilenet model achieved an accuracy of 81% on the test dataset, demonstrating its effectiveness in classifying breast ultrasound images as either malignant or benign. Its architecture, which promotes feature reuse, enhances its performance in this task.
 ![graph](https://github.com/user-attachments/assets/0614801a-1956-4f65-ae14-224a118f1f49)
 
 
